@@ -10,7 +10,7 @@ Date,Area,Location,Common.Name,Species.Name,Fate,Reason.for.Euthanasia,Marine.Pa
 06/01/2021,Mackay,Bucasia Beach,UNKNOWN SHARK,Unknown,Deceased,,Commonwealth
 08/01/2021,Cairns,Clifton,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
 09/01/2021,Cairns,Holloways,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
-09/01/2021,Cairns,Buchans  ,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
+09/01/2021,Cairns,Buchans,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
 11/01/2021,Townsville,Nelly Bay,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 11/01/2021,Townsville,Alma Bay,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth
 13/01/2021,Townsville,Alma Bay,SPINNER SHARK,Carcharhinus brevipinna,Deceased,,Commonwealth
@@ -44,12 +44,12 @@ Date,Area,Location,Common.Name,Species.Name,Fate,Reason.for.Euthanasia,Marine.Pa
 14/02/2021,Gladstone,Tannum Sands,TIGER SHARK,Galeocerdo cuvier,Deceased,,State
 15/02/2021,Townsville,Florence Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
 15/02/2021,Capricorn Coast,Emu Park,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
-18/02/2021,Cairns,Buchans  ,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
+18/02/2021,Cairns,Buchans,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
 18/02/2021,Cairns,Ellis Beach,TAWNY SHARK,Nebrius ferrugineus,Deceased,,Commonwealth
 18/02/2021,Cairns,Palm Cove,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 19/02/2021,Capricorn Coast,Yeppoon Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 23/02/2021,Townsville,Horseshoe Bay,CATFISH,Netuma thalassinus,Deceased,,State
-27/02/2021,Cairns,Buchans  ,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
+27/02/2021,Cairns,Buchans,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
 28/02/2021,Townsville,Alma Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
 28/02/2021,Capricorn Coast,Kemp Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 02/03/2021,Capricorn Coast,Kemp Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
@@ -57,7 +57,7 @@ Date,Area,Location,Common.Name,Species.Name,Fate,Reason.for.Euthanasia,Marine.Pa
 07/03/2021,Townsville,Nelly Bay,BLACKTIP REEF WHALER,Carcharhinus melanopterus,Deceased,,Commonwealth
 07/03/2021,Townsville,Horseshoe Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,State
 08/03/2021,Cairns,Holloways,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
-10/03/2021,Cairns,Buchans  ,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
+10/03/2021,Cairns,Buchans,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 14/03/2021,Mackay,Eimeo Beach,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth
 16/03/2021,Townsville,Florence Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 17/03/2021,Cairns,Ellis Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
@@ -66,7 +66,7 @@ Date,Area,Location,Common.Name,Species.Name,Fate,Reason.for.Euthanasia,Marine.Pa
 18/03/2021,Mackay,Bucasia Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 22/03/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 24/03/2021,Cairns,Trinity,GREAT HAMMERHEAD,Sphyrna mokarran,Deceased,,Commonwealth
-24/03/2021,Cairns,Buchans  ,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
+24/03/2021,Cairns,Buchans,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
 24/03/2021,Townsville,Florence Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 26/03/2021,Cairns,Palm Cove,TAWNY SHARK,Nebrius ferrugineus,Deceased,,Commonwealth
 26/03/2021,Cairns,Palm Cove,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
@@ -102,46 +102,46 @@ Date,Area,Location,Common.Name,Species.Name,Fate,Reason.for.Euthanasia,Marine.Pa
 26/04/2021,Townsville,Radical Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 27/04/2021,Cairns,Trinity,SPINNER SHARK,Carcharhinus brevipinna,Deceased,,Commonwealth
 30/04/2021,Mackay,Eimeo Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
-02/05/2021,Mackay,Eimeo Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth 
+02/05/2021,Mackay,Eimeo Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 02/05/2021,Townsville,Horseshoe Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,State
-03/05/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth 
-03/05/2021,Capricorn Coast,Mullambin Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth 
+03/05/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth
+03/05/2021,Capricorn Coast,Mullambin Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 03/05/2021,Gladstone,Tannum Sands,TIGER SHARK,Galeocerdo cuvier,Deceased,,State
-08/05/2021,Cairns,Ellis Beach,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth 
-08/05/2021,Capricorn Coast,Fishermans Beach,AUST SHARPNOSE SHARK,Rhizoprionodon taylori,Deceased,,Commonwealth 
-09/05/2021,Townsville,Alma Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth 
-09/05/2021,Townsville,Nelly Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth 
+08/05/2021,Cairns,Ellis Beach,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
+08/05/2021,Capricorn Coast,Fishermans Beach,AUST SHARPNOSE SHARK,Rhizoprionodon taylori,Deceased,,Commonwealth
+09/05/2021,Townsville,Alma Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
+09/05/2021,Townsville,Nelly Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
 11/05/2021,Cairns,Holloways,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
 11/05/2021,Cairns,Holloways,TIGER SHARK,Galeocerdo cuvier,Deceased,,State
 11/05/2021,Townsville,Horseshoe Bay,TIGER SHARK,Galeocerdo cuvier,Euthanised,Target Species,State
-11/05/2021,Townsville,Palarenda Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth 
+11/05/2021,Townsville,Palarenda Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 12/05/2021,Townsville,Horseshoe Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
-12/05/2021,Townsville,Radical Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth 
-14/05/2021,Cairns,Ellis Beach,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth 
-23/05/2021,Townsville,Florence Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth 
-24/05/2021,Capricorn Coast,Farnborough Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth 
-24/05/2021,Townsville,Florence Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth 
-24/05/2021,Capricorn Coast,Farnborough Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth 
-25/05/2021,Townsville,Nelly Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth 
-29/05/2021,Mackay,Bucasia Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth 
-29/05/2021,Townsville,Florence Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth 
-04/06/2021,Cairns,Ellis Beach,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth 
-06/06/2021,Capricorn Coast,Farnborough Beach,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth 
+12/05/2021,Townsville,Radical Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
+14/05/2021,Cairns,Ellis Beach,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
+23/05/2021,Townsville,Florence Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
+24/05/2021,Capricorn Coast,Farnborough Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+24/05/2021,Townsville,Florence Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
+24/05/2021,Capricorn Coast,Farnborough Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+25/05/2021,Townsville,Nelly Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
+29/05/2021,Mackay,Bucasia Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+29/05/2021,Townsville,Florence Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
+04/06/2021,Cairns,Ellis Beach,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth
+06/06/2021,Capricorn Coast,Farnborough Beach,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 06/06/2021,Gladstone,Tannum Sands,TIGER SHARK,Galeocerdo cuvier,Deceased,,State
-07/06/2021,Townsville,Palarenda Beach,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth 
-12/06/2021,Capricorn Coast,Fishermans Beach,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth 
+07/06/2021,Townsville,Palarenda Beach,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
+12/06/2021,Capricorn Coast,Fishermans Beach,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 13/06/2021,Gladstone,Tannum Sands,TIGER SHARK,Galeocerdo cuvier,Euthanised,Target Species,State
-14/06/2021,Townsville,Florence Bay,SCALLOPED HAMMERHEAD,Sphyrna lewini,Deceased,,Commonwealth 
-15/06/2021,Townsville,Florence Bay,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth 
+14/06/2021,Townsville,Florence Bay,SCALLOPED HAMMERHEAD,Sphyrna lewini,Deceased,,Commonwealth
+15/06/2021,Townsville,Florence Bay,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
 16/06/2021,Cairns,Holloways,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,State
 17/06/2021,Gladstone,Tannum Sands,TIGER SHARK,Galeocerdo cuvier,Euthanised,Target Species,State
-18/06/2021,Cairns,Clifton,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth 
-19/06/2021,Capricorn Coast,Tanby Point,TIGER SHARK,Galeocerdo cuvier,Euthanised,Humane Grounds,Commonwealth 
+18/06/2021,Cairns,Clifton,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
+19/06/2021,Capricorn Coast,Tanby Point,TIGER SHARK,Galeocerdo cuvier,Euthanised,Humane Grounds,Commonwealth
 21/06/2021,Townsville,Horseshoe Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
-22/06/2021,Townsville,Alma Bay,BLUE SHARK,Prionace glauca,Deceased,,Commonwealth 
-23/06/2021,Cairns,Ellis Beach,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth 
-23/06/2021,Cairns,Palm Cove,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth 
-30/06/2021,Townsville,Picnic Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth 
+22/06/2021,Townsville,Alma Bay,BLUE SHARK,Prionace glauca,Deceased,,Commonwealth
+23/06/2021,Cairns,Ellis Beach,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth
+23/06/2021,Cairns,Palm Cove,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+30/06/2021,Townsville,Picnic Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 01/07/2021,Townsville,Alma Bay,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth
 01/07/2021,Townsville,Picnic Bay,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 05/07/2021,Townsville,Florence Bay,GREAT HAMMERHEAD,Sphyrna mokarran,Released Alive,,Commonwealth
@@ -174,8 +174,8 @@ Date,Area,Location,Common.Name,Species.Name,Fate,Reason.for.Euthanasia,Marine.Pa
 10/08/2021,Townsville,Nelly Bay,BLACKTIP REEF WHALER,Carcharhinus melanopterus,Deceased,,Commonwealth
 12/08/2021,Townsville,Horseshoe Bay,SPINNER SHARK,Carcharhinus brevipinna,Deceased,,State
 12/08/2021,Townsville,Horseshoe Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
-12/08/2021,Cairns,Buchans  ,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
-13/08/2021,Cairns,Buchans  ,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
+12/08/2021,Cairns,Buchans,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
+13/08/2021,Cairns,Buchans,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 14/08/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 14/08/2021,Mackay,Bucasia Beach,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth
 15/08/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
@@ -241,131 +241,131 @@ Date,Area,Location,Common.Name,Species.Name,Fate,Reason.for.Euthanasia,Marine.Pa
 25/10/2021,Capricorn Coast,Yeppoon Beach,COD,Epinephelus sp.,Released Alive,,Commonwealth
 25/10/2021,Townsville,Florence Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
 27/10/2021,Townsville,Radical Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
-27/10/2021,Cairns,Buchans  ,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
+27/10/2021,Cairns,Buchans,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 27/10/2021,Townsville,Alma Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 28/10/2021,Capricorn Coast,Tanby Point,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Released Alive,,Commonwealth
 31/10/2021,Capricorn Coast,Fishermans Beach,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Deceased,,Commonwealth
 31/10/2021,Townsville,Horseshoe Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
 01/11/2021,Townsville,Horseshoe Bay,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Euthanised,Target Species,State
-05/11/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-05/11/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-06/11/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-06/11/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-06/11/2021,Capricorn Coast,Farnborough Beach,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-06/11/2021,Capricorn Coast,Mullambin Beach,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-06/11/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-06/11/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-06/11/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-06/11/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-06/11/2021,Gladstone,Tannum Sands,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,State
-06/11/2021,Gladstone,Tannum Sands,SCALLOPED HAMMERHEAD,Sphyrna lewini,Deceased ,,State
+05/11/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+05/11/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+06/11/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+06/11/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+06/11/2021,Capricorn Coast,Farnborough Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+06/11/2021,Capricorn Coast,Mullambin Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+06/11/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+06/11/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+06/11/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+06/11/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+06/11/2021,Gladstone,Tannum Sands,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,State
+06/11/2021,Gladstone,Tannum Sands,SCALLOPED HAMMERHEAD,Sphyrna lewini,Deceased,,State
 06/11/2021,Mackay,Eimeo Beach,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth
-07/11/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
+07/11/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
 08/11/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
-08/11/2021,Townsville,Horseshoe Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased ,,State
+08/11/2021,Townsville,Horseshoe Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
 09/11/2021,Townsville,Alma Bay,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth
-10/11/2021,Mackay,Blacks Beach,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
+10/11/2021,Mackay,Blacks Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 14/11/2021,Capricorn Coast,Emu Park,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Released Alive,,Commonwealth
 14/11/2021,Townsville,Nelly Bay,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth
-15/11/2021,Capricorn Coast,Emu Park,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Deceased ,,Commonwealth
+15/11/2021,Capricorn Coast,Emu Park,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Deceased,,Commonwealth
 15/11/2021,Townsville,Picnic Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 16/11/2021,Townsville,Horseshoe Bay,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,State
 17/11/2021,Townsville,Radical Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
-19/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-20/11/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-20/11/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-20/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-20/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-20/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-20/11/2021,Capricorn Coast,Farnborough Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-20/11/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-20/11/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-20/11/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-21/11/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-21/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-22/11/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
+19/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+20/11/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+20/11/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+20/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+20/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+20/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+20/11/2021,Capricorn Coast,Farnborough Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+20/11/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+20/11/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+20/11/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+21/11/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+21/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+22/11/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
 23/11/2021,Townsville,Nelly Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
-24/11/2021,Mackay,Blacks Beach,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
+24/11/2021,Mackay,Blacks Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 24/11/2021,Townsville,Horseshoe Bay,TIGER SHARK,Galeocerdo cuvier,Euthanised,Target Species,State
-26/11/2021,Mackay,Blacks Beach,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Deceased ,,Commonwealth
+26/11/2021,Mackay,Blacks Beach,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Deceased,,Commonwealth
 27/11/2021,Capricorn Coast,Fishermans Beach,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth
 27/11/2021,Capricorn Coast,Tanby Point,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Released Alive,,Commonwealth
-27/11/2021,Cairns,Trinity,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased ,,State
-28/11/2021,Townsville,Horseshoe Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased ,,State
+27/11/2021,Cairns,Trinity,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
+28/11/2021,Townsville,Horseshoe Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
 28/11/2021,Capricorn Coast,Tanby Point,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 29/11/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth
 29/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
 29/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
 29/11/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
-29/11/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
+29/11/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
 29/11/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
 29/11/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
-29/11/2021,Townsville,Horseshoe Bay,TIGER SHARK,Galeocerdo cuvier,Deceased ,,State
-30/11/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
+29/11/2021,Townsville,Horseshoe Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,State
+30/11/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
 30/11/2021,Townsville,Radical Bay,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
 30/11/2021,Gladstone,Tannum Sands,TIGER SHARK,Galeocerdo cuvier,Euthanised,Target Species,State
-30/11/2021,Townsville,Nelly Bay,TIGER SHARK,Galeocerdo cuvier,Deceased ,,Commonwealth
-01/12/2021,Capricorn Coast,Fishermans Beach,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-01/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-01/12/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
+30/11/2021,Townsville,Nelly Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
+01/12/2021,Capricorn Coast,Fishermans Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+01/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+01/12/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
 01/12/2021,Capricorn Coast,Tanby Point,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
-02/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-02/12/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-02/12/2021,Capricorn Coast,Kemp Beach,TIGER SHARK,Galeocerdo cuvier,Deceased ,,Commonwealth
-03/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-03/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-03/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
+02/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+02/12/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+02/12/2021,Capricorn Coast,Kemp Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
+03/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+03/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+03/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
 03/12/2021,Capricorn Coast,Tanby Point,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
-05/12/2021,Capricorn Coast,Yeppoon Beach,AUSTRALIAN SHARPNOSE SHARK,Rhizoprionodon taylori,Deceased ,,Commonwealth
-05/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-05/12/2021,Townsville,Alma Bay,TIGER SHARK,Galeocerdo cuvier,Deceased ,,Commonwealth
-07/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-08/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-08/12/2021,Capricorn Coast,Mullambin Beach,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
+05/12/2021,Capricorn Coast,Yeppoon Beach,AUSTRALIAN SHARPNOSE SHARK,Rhizoprionodon taylori,Deceased,,Commonwealth
+05/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+05/12/2021,Townsville,Alma Bay,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
+07/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+08/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+08/12/2021,Capricorn Coast,Mullambin Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 08/12/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth
-08/12/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
-08/12/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
+08/12/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
+08/12/2021,Capricorn Coast,Tanby Point,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
 08/12/2021,Townsville,Radical Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
-09/12/2021,Capricorn Coast,Fishermans Beach,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Deceased ,,Commonwealth
-09/12/2021,Capricorn Coast,Mullambin Beach,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Deceased ,,Commonwealth
-09/12/2021,Cairns,Trinity,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased ,,Commonwealth
-09/12/2021,Townsville,Radical Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased ,,Commonwealth
-10/12/2021,Capricorn Coast,Mullambin Beach,TIGER SHARK,Galeocerdo cuvier,Deceased ,,Commonwealth
+09/12/2021,Capricorn Coast,Fishermans Beach,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Deceased,,Commonwealth
+09/12/2021,Capricorn Coast,Mullambin Beach,SHARPTOOTH/LEMON SHARK,Negaprion brevirostris,Deceased,,Commonwealth
+09/12/2021,Cairns,Trinity,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
+09/12/2021,Townsville,Radical Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,Commonwealth
+10/12/2021,Capricorn Coast,Mullambin Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 11/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth
 11/12/2021,Mackay,Blacks Beach,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth
 14/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth
 14/12/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth
 14/12/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Released Alive,,Commonwealth
-14/12/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,Commonwealth
+14/12/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,Commonwealth
 14/12/2021,Capricorn Coast,Mullambin Beach,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
-14/12/2021,Townsville,Horseshoe Bay,PIGEYE WHALER,Carcharhinus amboinensis,Deceased ,,State
+14/12/2021,Townsville,Horseshoe Bay,PIGEYE WHALER,Carcharhinus amboinensis,Deceased,,State
 14/12/2021,Townsville,Alma Bay,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
-15/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-15/12/2021,Capricorn Coast,Mullambin Beach,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-15/12/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-16/12/2021,Cairns,Ellis Beach,TIGER SHARK,Galeocerdo cuvier,Deceased ,,Commonwealth
-17/12/2021,Mackay,Blacks Beach,AUSTRALIAN BLACKTIP,Carcharhinus tilstoni,Deceased ,,Commonwealth
-17/12/2021,Gladstone,Tannum Sands,TIGER SHARK,Galeocerdo cuvier,Deceased ,,State
+15/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+15/12/2021,Capricorn Coast,Mullambin Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+15/12/2021,Capricorn Coast,Tanby Point,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+16/12/2021,Cairns,Ellis Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
+17/12/2021,Mackay,Blacks Beach,AUSTRALIAN BLACKTIP,Carcharhinus tilstoni,Deceased,,Commonwealth
+17/12/2021,Gladstone,Tannum Sands,TIGER SHARK,Galeocerdo cuvier,Deceased,,State
 18/12/2021,Capricorn Coast,Emu Park,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
-19/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-19/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
-19/12/2021,Capricorn Coast,Fishermans Beach,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
+19/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+19/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
+19/12/2021,Capricorn Coast,Fishermans Beach,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 19/12/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
-22/12/2021,Capricorn Coast,Fishermans Beach,BLACKTIP REEF WHALER,Carcharhinus melanopterus,Deceased ,,Commonwealth
-22/12/2021,Mackay,Blacks Beach,TIGER SHARK,Galeocerdo cuvier,Deceased ,,Commonwealth
+22/12/2021,Capricorn Coast,Fishermans Beach,BLACKTIP REEF WHALER,Carcharhinus melanopterus,Deceased,,Commonwealth
+22/12/2021,Mackay,Blacks Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 22/12/2021,Mackay,Blacks Beach,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
-23/12/2021,Capricorn Coast,Emu Park,COMMON BLACKTIP WHALER,Carcharhinus limbatus,Deceased ,,Commonwealth
+23/12/2021,Capricorn Coast,Emu Park,COMMON BLACKTIP WHALER,Carcharhinus limbatus,Deceased,,Commonwealth
 23/12/2021,Capricorn Coast,Tanby Point,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth
 23/12/2021,Mackay,Eimeo Beach,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
-24/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased ,,Commonwealth
+24/12/2021,Capricorn Coast,Emu Park,BULL WHALER,Carcharhinus leucas,Deceased,,Commonwealth
 24/12/2021,Capricorn Coast,Fishermans Beach,PIGEYE WHALER,Carcharhinus amboinensis,Released Alive,,Commonwealth
 24/12/2021,Capricorn Coast,Emu Park,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 24/12/2021,Capricorn Coast,Mullambin Beach,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 24/12/2021,Capricorn Coast,Yeppoon Beach,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
 27/12/2021,Townsville,Picnic Bay,TAWNY SHARK,Nebrius ferrugineus,Released Alive,,Commonwealth
-27/12/2021,Cairns,Holloways,TIGER SHARK,Galeocerdo cuvier,Deceased ,,State
-27/12/2021,Capricorn Coast,Fishermans Beach,TIGER SHARK,Galeocerdo cuvier,Deceased ,,Commonwealth
+27/12/2021,Cairns,Holloways,TIGER SHARK,Galeocerdo cuvier,Deceased,,State
+27/12/2021,Capricorn Coast,Fishermans Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
 27/12/2021,Capricorn Coast,Tanby Point,TIGER SHARK,Galeocerdo cuvier,Released Alive,,Commonwealth
-28/12/2021,Cairns,Holloways,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased ,,State
-28/12/2021,Mackay,Eimeo Beach,TIGER SHARK,Galeocerdo cuvier,Deceased ,,Commonwealth
-29/12/2021,Townsville,Horseshoe Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased ,,State
+28/12/2021,Cairns,Holloways,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
+28/12/2021,Mackay,Eimeo Beach,TIGER SHARK,Galeocerdo cuvier,Deceased,,Commonwealth
+29/12/2021,Townsville,Horseshoe Bay,SPOT-TAIL WHALER,Carcharhinus sorrah,Deceased,,State
