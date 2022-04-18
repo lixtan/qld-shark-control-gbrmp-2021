@@ -15,7 +15,7 @@ text-align: justify}
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-my_packages <- c("tidyverse", "plotly", "flexdashboard", "lubridate", "treemap", "d3treeR") 
+my_packages <- c("tidyverse", "plotly", "flexdashboard", "lubridate", "leaflet", "htmltools") 
 lapply(my_packages, require, character.only = TRUE)
 
 catches2021 <- read.csv("gbrmp-catch-statistics-2021.csv")
@@ -27,7 +27,7 @@ This dashboard provides summary statistics about the catches in the Queensland S
 
 The data was obtained from [Queensland's Open Data Portal](https://www.data.qld.gov.au/dataset/qld-shark-control-program-catch-statistics-great-barrier-reef-marine-park).
 
-Created by [Li X Tan](https://www.github.com/lixtan/). Last updated: 2022-04-17
+Created by [Li X Tan](https://www.github.com/lixtan/). Last updated: 2022-04-18
 
 Row
 -----------------------------------------------------------------------
@@ -52,9 +52,23 @@ valueBox(value = paste0(commonwealth_catch), icon = "fa-arrows")
 valueBox(value = paste0(state_catch), icon = "fa-arrows-alt")
 ```
 
-Row
+Row {.tabset}
 -----------------------------------------------------------------------
-### Number of catches over time
+### Area & Location
+```{r area, echo = FALSE, fig.keep='none'}
+labs <- lapply(seq(nrow(catches2021)), function(i) {
+  paste0( '<p>', catches2021[i, "Location"], ', ', 
+          catches2021[i, "Area"], '</p><p>', 
+          catches2021[i, "Common.Name"], '</p><p>',
+          catches2021[i, "Date"], '</p>') 
+})
+
+catch_map <- leaflet(catches2021) %>% addProviderTiles(providers$CartoDB.Voyager) %>%
+  addCircleMarkers(lng = ~lon, lat =~lat, clusterOptions = markerClusterOptions(), label = lapply(labs, htmltools::HTML))
+catch_map
+```
+
+### Catches over 2021
 ```{r time-series}
 catches2021$Date <- dmy(catches2021$Date)
 count_catches <- catches2021 %>% count(Date, Area) %>% 
@@ -65,42 +79,23 @@ count_catches <- catches2021 %>% count(Date, Area) %>%
 catches_time_series <- count_catches %>% ggplot(aes(x=Date, y=Value, group=Area, color=Area)) +
     geom_line(size = 1) +
     labs(y="Cumulative Number of Catches") +
-    theme_minimal()
+    theme_minimal() +
+    scale_color_brewer(palette = "Set2")
 catches_time_series
 ggplotly(catches_time_series, tooltip = c("x", "y", "group"))
 ```
 
-Row {.tabset}
------------------------------------------------------------------------
 ```{r setup-charts, include=FALSE}
-catches_area <- catches2021 %>% count(Area, Location)
-area_treemap <- treemap(catches_area,
-            index=c("Area","Location"),
-            vSize="n",
-            type="index",
-            palette = "Blues",
-            bg.labels=c("white"),
-            align.labels=list(
-              c("center", "center"), 
-              c("right", "bottom")
-            )  
-          )
-
 species_fate <- catches2021 %>% count(Common.Name, Fate)
 species_fate_chart <- ggplot(species_fate, aes(x = fct_reorder(Common.Name,n), y = n, fill = Fate)) + 
   coord_flip() +
   geom_bar(stat = "identity") +
   labs(x = "Number of catches", y = "Fish species - common name") +
-  theme_minimal()
-```
-
-### Area
-```{r area, echo = FALSE, fig.keep='none'}
-d3tree2(area_treemap, rootname = "Catch Areas")
+  theme_minimal() +
+  scale_fill_brewer(palette = "Set2")
 ```
 
 ### Species & Fate
 ```{r fate, echo = FALSE}
-ggplotly(species_fate_chart)
+ggplotly(species_fate_chart, tooltip = c("n", "Fate"))
 ```
-
